@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+.metronome{
+    text-align: center;
+    background-color: #9e9d90;
+    max-width: 375;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+.bpm-spider div{
+    color: #0b2925;
+    font-weight: lighter;
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+.bpm-spider input{
+    width: 100%;
+    margin: 10px;
+}
+
+.metronome button{
+    color: #ecd6d6;
+    text-decoration: cadetblue;
+    font-size: 20px;
+    padding: 5px;
+    background-color: #343442;
+    border: 1px solid #002420;
+    padding: 10px;
+    border-radius: 2px;
+    width: 100px;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
